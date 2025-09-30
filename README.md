@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d8e2a519-c947-43bc-904c-22b94d6e7734" />
+
 # FinTrack Real-Time Financial Dashboard
 
 FinTrack is a full-stack TypeScript application that showcases a responsive, real-time financial dashboard. The system streams live portfolio metrics over WebSockets, renders interactive analytics with React and Plotly, and ships with automated tests and documentation ready for AWS ECS deployment.
